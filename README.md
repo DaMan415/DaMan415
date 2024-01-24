@@ -25,7 +25,7 @@ A **Frontend, Backend, Web Programmer** ***Enthusiast*** 🚀.
 - 🌱 I’m currently exploring React with a big interest in React.js and React Native. 
 - 🤔 My interest lies in frontend,bakckend, and Web Programmer.
 - 💬 Ask me about anything, I love to answer!
-- 📫 Email me at [odhiahmad15@gmail.com](mailto:fathur.rahman10@yahoo.com).
+- 📫 Email me at [fathur.rahman10@yahoo.com](mailto:fathur.rahman10@yahoo.com).
 
 
 
